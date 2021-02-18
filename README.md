@@ -1,4 +1,4 @@
-# Build an Adversarial Game Playing Agent
+# Adversarial Game Playing Agent
 
 NOTE: The project is played on a 9x11 grid instead of a 7x7 grid.
 
